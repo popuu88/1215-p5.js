@@ -2,10 +2,6 @@ let colors = "FF5A5F-F0F757-F92A82-86bbd8-f6ae2d-f26419-ebe9e9-f3f8f2-3581b8-fcb
 
 let canvasTexture 
 
-function preload(){
-
-	canvasTexture = loadImage("/img/canvas.jpg")
-}
 function setup() {
 	
 //	createCanvas(1000,1000);
